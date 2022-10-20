@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>GYM Center</title>
-    <link rel="stylesheet" type="text/css" href="login.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
   </head>
   <body>
     <div class="wrapper fadeInDown">
